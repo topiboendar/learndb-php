@@ -1,6 +1,6 @@
 <?php
 
-include_once __DIR__ . '\GetConn.php';
+include_once __DIR__ . '/GetConn.php';
 
 $conn = getConnection();
 

@@ -2,7 +2,7 @@
 
 ## 📖 Konteks
 Repository ini dibuat untuk mendokumentasikan proses belajar PHP langsung dari HP Android menggunakan Termux dan Neovim.  
-Tidak ada tujuan muluk-muluk, hanya ingin membuktikan bahwa ngoding bisa dilakukan di mana saja dan kapan saja, bahkan tanpa laptop.
+Tidak ada tujuan muluk-muluk, hanya ingin membagikan cerita bahwa ngoding bisa dilakukan di mana saja dan kapan saja, bahkan tanpa laptop.
 
 ## 🗒️ Cerita
 Pagi itu saya sedang melamun dan merasa bosan. Kondisi saat itu mengharuskan saya tidak membawa laptop, sehingga opsi ngoding di laptop pun hilang.  
